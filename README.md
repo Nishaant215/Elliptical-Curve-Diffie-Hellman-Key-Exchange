@@ -2,7 +2,7 @@
 
 This script demonstrates the Diffie Hellman Key Exchange using points on Elliptical Curve to compute the shared key.
 
-Review the DHE_ECC.pdf to understand the algorithm
+Review the **DHE_ECC.pdf** to understand the algorithm
 
 Run the script: ECDH Key Exchange Protocol.py
 
